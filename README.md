@@ -17,8 +17,8 @@ You enter the time (in seconds), and it counts down like a boss — second by se
 - 😈 Or timing how long it takes to steal hearts 💕
 
 ## 🔥 Preview
- ---- A prove that the code is working ...
- <img>![vs screen](<Screenshot 2025-06-13 202004.png>)</img>
+> A proof that the code works like magic 💻⚡
+ ![Screenshot 2025-06-13 202004](https://github.com/user-attachments/assets/68051b20-1648-487d-b2d0-6dbe428a42de)
 
 ## 🛠 How to Run
 
